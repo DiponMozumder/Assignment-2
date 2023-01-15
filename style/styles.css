@@ -1,0 +1,41 @@
+.header{
+    width: 1920px;
+height: 1322px;
+}
+.one{
+    display: flex;
+    justify-content: space-between;
+}
+div nav a{
+    text-decoration: none;
+    color: black;
+    margin-right: 40px;
+}
+.two{
+    padding-right: 500px;
+}
+.gray{
+    filter: grayscale(100%);
+}
+.first-one{
+    position: absolute;
+    width: 862px;
+    height: 225px;
+    text-align: center;
+    padding-top: 100px;
+    padding-left: 200px;
+}
+.first-img{
+    padding: 270px 40px;
+    width: 700px;
+    height: 700px;
+   
+}
+
+.btn-txt{
+    padding: 20px;
+    color: white;
+    background-color: orange;
+    border: 0;
+    border-radius: 5px;
+}
